@@ -2,10 +2,10 @@
 The English Premier League is a top English professional league established in England. This project is mainly for the 2021–2022 season. The dataset was gotten from Kaggle. It consists of two documents. The first dataset is the player statistics, and the second dataset is the English Premier League table.
 
 ## Methodology
-### Data Cleaning
-### Data Modeling
-### Data Analysis
-### Data visualization
+#### Data Cleaning
+#### Data Modeling
+#### Data Analysis
+#### Data visualization
 
 ### Data Cleaning
 The duplicate data was removed, and special characters were eliminated with the Find and Replace function in Excel. Kutools for Excel was used to create space between some of the data.
