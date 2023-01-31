@@ -1,5 +1,5 @@
 # EnglishPremier_league
-The Premier League is one of the highest level of the football tuornaments in the world. It is contested by 20 clubs and operates on a system of promotion and relegation with the English Football League. Seasons typically run from August to May, with each team playing 38 matches.. This analysis focusses mainly on the 2021–2022 season. The dataset was gotten from Kaggle. It consists of two documents. The first dataset is the player statistics, and the second dataset is the English Premier League table.
+The Premier League is one of the highest level of the football tuornaments in the world. It is contested by 20 clubs and operates on a system of promotion and relegation with the English Football League. Seasons typically run from August to May, with each team playing 38 matches.. This analysis focusses mainly on the 2021–2022 season. The dataset was gotten from Kaggle. It consists of two datasets. The first one is the player statistics, and the second dataset is the English Premier League table.
 
 ## Methodology
 #### Data Cleaning
